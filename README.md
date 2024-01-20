@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Billalbert Martinez</h1>
 <h3 align="center">A Front-End Developer</h3>
-![Banner](https://bill.caribito.com/bill/src/Banner2.jpeg)
+<p align="center"><img src="https://bill.caribito.com/bill/src/Banner2.jpeg" widht="500px" height="450"/></p>
 <h5 align="center"> I am a passionate front-end developer with a strong belief in the importance of designing impactful user experiences.
 
 My main technologies are JavaScript, React and CSS, I seek to explore new languages ​​and approaches to create complex functionalities and be able to contribute a little in this world of development. <h5>
