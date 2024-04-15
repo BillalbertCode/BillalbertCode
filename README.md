@@ -5,9 +5,9 @@
 
 My main technologies are JavaScript, React and CSS, I seek to explore new languages ​​and approaches to create complex functionalities and be able to contribute a little in this world of development. <h5>
 
-- 🧠 I’m currently learning **TypeScrtip and Phyton**
+- 🧠 I’m currently learning **NodeJs and MongoDB**
 
-- 👨‍💻 All of my projects are available at [http://bill.caribito.com/bill/](http://bill.caribito.com/bill/)
+- 👨‍💻 All of my projects are available at [https://bill.caribito.com/bill/](http://bill.caribito.com/bill/)
 
 - 📫 How to reach me **BillalbertCode@gmail.com**
 
